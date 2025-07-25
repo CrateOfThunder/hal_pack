@@ -28,8 +28,8 @@
 /* HAL Pack - CGB Pocket Monsters                                     */
 /*            hal_pack.c -- cgb pocket monsters gfx xcoder            */
 /* Rev.                        28JAN2025               CrateOfThunder */
-/* Ver. 1.XX                (?)12NOV1999     S. Iwata / HAL Labratory */
-/* Ver. 1.00                   ??JUN1989     S. Iwata / HAL Labratory */
+/* Ver. 1.XX                (?)12NOV1999    S. Iwata / HAL Laboratory */
+/* Ver. 1.00                   ??JUN1989    S. Iwata / HAL Laboratory */
 /* ------------------------------------------------------------------ */
 /*                                                                    */
 /*       ANY PERCEIVED PERSONAL CLAIM OF INTELLECTUAL PROPERTY        */
